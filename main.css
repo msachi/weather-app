@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#container {
+  color: black;
+  max-width: 640px;
+  height: 330px;
+  border-radius: 50px;
+  background-color: white;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  padding: 20px 0px 20px;
+}
+
+.header {
+  width: 50%;
+  color: white;
+  margin: auto;
+  margin-top: 10%;
+  text-align: center;
+}
+
+.subheader {
+  color: white;
+  width: 50%;
+  color: white;
+  margin: auto;
+  text-align: center;
+}
+
+#location {
+  font-size: 26px;
+}
+
+#temp {
+  font-size: 80px;
+  margin-top: 0px;
+}
+
+#weather {
+  font-size: 40px;
+  margin-top: -50px;
+}
+
+#wind {
+  font-size: 20px;
+  margin-top: -20px;
+}
+
+.footer {
+  color: white;
+  width: 50%;
+  color: white;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
